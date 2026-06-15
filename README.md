@@ -21,5 +21,7 @@ This solution supports multiple paid media destinations (such as Meta, Google, T
 * Centralized monitoring and alerting
 * Scalable, enterprise-ready paid media activation
 
+<img width="1160" height="510" alt="image" src="https://github.com/user-attachments/assets/38ca4504-58a2-4512-afde-0e4939f6fae6" />
+
   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f1f461bb-f9f1-475c-a51a-590c3cb0b2f8" />
 
